@@ -1,8 +1,13 @@
-# 🎯 Autoinjector Pose Estimation Pipeline
+# 🎯 Autoinjector Object Detection Pipeline
+
+![Demo Screenshot](demo.png)
+
 
 > **Real-time AI that sees more than meets the eye** — detecting autoinjectors and tracking their precise orientation in 3D space using cutting-edge YOLO pose estimation.
 
 Ever wondered how machines "see" and understand object orientation in real-time? This project brings together state-of-the-art computer vision, pose estimation, and production-ready engineering to create an intelligent system that detects autoinjectors (capped or uncapped) and tracks their keypoint locations with sub-pixel accuracy.
+
+*Real-time pose estimation with bounding boxes, keypoints, orientation angle, and FPS counter*
 
 ## 🚀 What It Does
 
